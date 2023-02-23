@@ -2,57 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://pluralrespect.github.io/selfrespect/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2023-02-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://pluralrespect.github.io/selfrespect/FAQ/</loc>
+         <lastmod>2023-02-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pluralrespect.github.io/selfrespect/communication/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2023-02-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pluralrespect.github.io/selfrespect/exploration/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2023-02-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pluralrespect.github.io/selfrespect/flanderization/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2023-02-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pluralrespect.github.io/selfrespect/fuzztivehood/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2023-02-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pluralrespect.github.io/selfrespect/individualism/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2023-02-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pluralrespect.github.io/selfrespect/quantity/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2023-02-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pluralrespect.github.io/selfrespect/rapport/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2023-02-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pluralrespect.github.io/selfrespect/reclamation/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2023-02-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pluralrespect.github.io/selfrespect/sexuality/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2023-02-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pluralrespect.github.io/selfrespect/slang/</loc>
-         <lastmod>2023-01-22</lastmod>
+         <lastmod>2023-02-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
